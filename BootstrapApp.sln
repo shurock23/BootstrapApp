@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootstrapApp", "BootstrapApp\BootstrapApp.csproj", "{8F4AD118-0471-416C-889C-4D03EBA051CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F4AD118-0471-416C-889C-4D03EBA051CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4AD118-0471-416C-889C-4D03EBA051CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4AD118-0471-416C-889C-4D03EBA051CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4AD118-0471-416C-889C-4D03EBA051CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D8BFE61-3510-496B-97A2-11B628D1F0AA}
+	EndGlobalSection
+EndGlobal
